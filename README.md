@@ -19,7 +19,7 @@ Full-stack developer. Currently working as a Frontend Developer while continuing
 
 ## 🛠️ What I Work With
 
-- **Backend Development**: Building robust APIs and services with NestJS and Express
+- **Backend Development**: Building APIs and services with NestJS and Express
 - **Frontend Development**: Creating responsive and interactive UIs with Vue.js and React
 - **Mobile Development**: Cross-platform mobile applications using Ionic and React Native
 
