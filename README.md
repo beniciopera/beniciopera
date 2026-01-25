@@ -1,10 +1,10 @@
 # Hi there, I'm Benicio 👋
 
-## 🚀 About Me
+## About Me
 
 Full-stack developer. Currently working as a Frontend Developer while continuing to expand my expertise across the entire development stack and pursuing my degree in Computer Science.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -17,7 +17,7 @@ Full-stack developer. Currently working as a Frontend Developer while continuing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🛠️ What I Work With
+## What I Work With
 
 - **Backend Development**: Building APIs and services with NestJS and Express
 - **Frontend Development**: Creating responsive and interactive UIs with Vue.js and React
