@@ -10,6 +10,7 @@ Full-stack developer. Currently working as a Frontend Developer while continuing
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -19,6 +20,5 @@ Full-stack developer. Currently working as a Frontend Developer while continuing
 ## What I Work With
 
 - **Backend Development**: Building APIs and services with NestJS and Express
-- **Frontend Development**: Creating responsive and interactive UIs with Vue.js and React
+- **Frontend Development**: Creating responsive and interactive UIs with Vue.js, React, and Next.js
 - **Mobile Development**: Cross-platform mobile applications using Ionic
-
