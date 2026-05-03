@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full-stack developer. Currently working as a Frontend Developer while continuing to expand my expertise across the entire development stack and pursuing my degree in Computer Science.
+Full-stack developer. Currently working as a Software Developer while continuing to expand my expertise across the entire development stack and pursuing my degree in Computer Science.
 
 ## Tech Stack
 
