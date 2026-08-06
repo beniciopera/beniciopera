@@ -17,8 +17,3 @@ Full-stack developer. Currently working as a Software Developer while continuing
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## What I Work With
-
-- **Backend Development**: Building APIs and services with NestJS and Express
-- **Frontend Development**: Creating responsive and interactive UIs with Vue.js, React, and Next.js
-- **Mobile Development**: Cross-platform mobile applications using Ionic
